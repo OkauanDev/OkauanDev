@@ -1,6 +1,11 @@
 ## Olá!, EU SOU O KAUAN 👋
 Desenvolvedor FullStack e estudante em ciência da computação.
+
 Formado técnico em desenvolvimento de sistema.
+
+Porifolio: https://okauandev.github.io/Portif-lio/
+
+Email: kauanpnascimento750@gmail.com
 
 
 <div style="display: inline_block"><br>
