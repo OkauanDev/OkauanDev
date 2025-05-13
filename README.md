@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Olá!, EU SOU O KAUAN 👋
+Desenvolvedor FullStack e estudante em ciência da computação.
+Formado técnico em desenvolvimento de sistema.
 
 
 <div style="display: inline_block"><br>
