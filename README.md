@@ -19,11 +19,6 @@ Email: kauanpnascimento750@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="50" width="50" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" align="center"/>
 
-<div><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=OkauanDev&show_icons=true&theme=radical&include_all_commits=true">
-
-</div>
-
 </div><br>
 
 <div> 
