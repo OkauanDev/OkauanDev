@@ -1,5 +1,5 @@
 ## Olá!, EU SOU O KAUAN 👋
-Desenvolvedor FullStack e estudante em ciência da computação.
+Desenvolvedor Front End e estudante em ciência da computação.
 
 Formado técnico em desenvolvimento de sistema.
 
