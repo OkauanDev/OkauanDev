@@ -21,12 +21,11 @@ Email: kauanpnascimento750@gmail.com
 
 </div><br>
 
-<div> 
-
-   <div>
-    <a href="https://github.com/OkauanDev">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkauanDev&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=OkauanDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align='center'>
+<img src="./github/assets/bar.png" width="100%" height="8px"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OkauanDev&show_icons=true&count_private=true&title_color=FF204E&icon_color=A0153E&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkauanDev&layout=compact&title_color=FF204E&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 <a href="https://www.linkedin.com/in/kauan-pinheiro-do-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
