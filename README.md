@@ -23,6 +23,10 @@ Email: kauanpnascimento750@gmail.com
 
 <div> 
 
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+    </a>
+
 <a href="https://www.linkedin.com/in/kauan-pinheiro-do-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
