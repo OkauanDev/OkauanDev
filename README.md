@@ -1,6 +1,11 @@
 ## Olá!, EU SOU O KAUAN 👋
-Desenvolvedor Front End e estudante em ciência da computação.
+Desenvolvedor Full-stack.
+Sou apaixonado por tecnologia e atuo como desenvolvedor Full-Stack em formação, com mais de 2 anos de estudos focados em desenvolvimento Front-End, Back-End e Mobile.
 
+Sou formado como Técnico em Informática para Internet, e atualmente curso Ciência da Computação na Estácio, onde sigo expandindo meu conhecimento técnico e minha visão sobre o ecossistema de software.
+Possuo experiência prática com HTML, CSS, JavaScript, React.js, Node.js, Express, MySQL e PostgreSQL, além de conhecimento em Git/GitHub, Scrum, Kanban e noções de CI/CD.
+Sou uma pessoa organizada, comunicativa, com pensamento crítico e grande vontade de aprender, evoluir e contribuir com projetos inovadores.
+📩 Buscando minha primeira oportunidade na área de tecnologia para colocar em prática tudo que venho estudando com tanta dedicação.
 Formado técnico em desenvolvimento de sistema.
 
 Porifolio: https://okauandev.github.io/Portif-lio/
