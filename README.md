@@ -1,5 +1,5 @@
 ## Olá!, EU SOU O KAUAN 👋
-<div align='center'>Desenvolvedor Full-stack.</div>
+<div align='center'>Desenvolvedor Full-stack.</div><br>
 
 
 Sou apaixonado por tecnologia e atuo como desenvolvedor Full-Stack em formação, com mais de 2 anos de estudos focados em desenvolvimento Front-End, Back-End e Mobile.
