@@ -1,5 +1,6 @@
 ## Olá!, EU SOU O KAUAN 👋
-Desenvolvedor Full-stack.
+<div align='center'>Desenvolvedor Full-stack.</div>
+
 
 Sou apaixonado por tecnologia e atuo como desenvolvedor Full-Stack em formação, com mais de 2 anos de estudos focados em desenvolvimento Front-End, Back-End e Mobile.
 Sou formado como Técnico em Informática para Internet, e atualmente curso Ciência da Computação na Estácio, onde sigo expandindo meu conhecimento técnico e minha visão sobre o ecossistema de software.
